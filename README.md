@@ -12,13 +12,16 @@
 
     mit "STRG + Ö" die Konsole anzeigen lassen.
 
-## Schritt 4
+## Schritt 4 (OPTIONAL)
 
     git checkout [branch]
 
 ## Schritt 5
 
-    Rechtsklick auf "node_modules.zip" und "im Explorer anzeigen" auswählen.
+    Rechtsklick auf "node_modules.zip" und "im Explorer anzeigen" auswählen. 
+    ! ODER !
+    Im Terminal "npm install" eingeben. Dann wird automatisch aus der Package.json ein node_modules Ordner erstellt
+    und alles installiert. (dann Schritt 6 überspringen)
 
 ## Schritt 6
 
